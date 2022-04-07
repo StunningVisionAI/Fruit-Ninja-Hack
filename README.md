@@ -2,6 +2,7 @@
 
 ## Youtube Video
 
+https://www.youtube.com/watch?v=OvZnaeHXNik
 
 ## Dependencies
 Python 3.9
